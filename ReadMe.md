@@ -9,12 +9,19 @@ I enjoy exploring complex datasets, discovering hidden patterns, extracting acti
 I'm continuously learning, experimenting with new technologies, and building practical projects to grow as a Data Scientist.
 
 🚀 About Me
+
 🔭 Currently Working On: Data Science, Machine Learning, and Generative AI projects.
+
 📊 My Foundation: Data Analytics, Data Cleaning, Exploratory Data Analysis, and Data Visualization.
+
 👯 Looking to Collaborate On: Data Science, Machine Learning, Predictive Analytics, and Open-Source projects.
+
 🌱 Currently Learning: Python, SQL, Statistics, Machine Learning, and Generative AI.
+
 💬 Ask Me About: Python, SQL, Data Analytics, Power BI, EDA, and Data Visualization.
+
 🎯 Career Goal: To become a skilled Data Scientist capable of transforming data into intelligent, impactful solutions.
+
 ⚡ My Philosophy: Learn continuously. Analyze critically. Build consistently. Innovate fearlessly.
 
 
