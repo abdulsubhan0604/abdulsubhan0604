@@ -2,12 +2,6 @@
 
 🎯 Aspiring Data Scientist | Data Analytics | Machine Learning | Generative AI
 
-I'm a Computer Science and Data Science student with a strong foundation in Data Analytics and a growing passion for Data Science, Machine Learning, and Artificial Intelligence.
-
-I enjoy exploring complex datasets, discovering hidden patterns, extracting actionable insights, and transforming raw data into meaningful solutions. I believe in combining analytical thinking, statistical knowledge, and programming to solve real-world problems.
-
-I'm continuously learning, experimenting with new technologies, and building practical projects to grow as a Data Scientist.
-
 🚀 About Me
 
 🔭 Currently Working On: Data Science, Machine Learning, and Generative AI projects.
