@@ -1,22 +1,21 @@
-👋 **Hi, I'm Abdul Subhan!**
+👋 Hi, I'm Abdul Subhan!
 
-I'm an aspiring **Data Scientist and Developer** with a strong foundation in **Data Analytics** and a growing passion for Machine Learning, Artificial Intelligence, and Generative AI. I enjoy exploring data, uncovering meaningful patterns, and transforming complex datasets into actionable insights and intelligent solutions.
+🎯 Aspiring Data Scientist | Data Analytics | Machine Learning | Generative AI
 
-🔭 **Currently Working On:** Building hands-on projects in Data Science, Machine Learning, and Generative AI to solve real-world problems.
+I'm a Computer Science and Data Science student with a strong foundation in Data Analytics and a growing passion for Data Science, Machine Learning, and Artificial Intelligence.
 
-👯 **Looking to Collaborate On:** Data Science, Machine Learning, Predictive Analytics, AI-powered applications, and Open-Source projects.
+I enjoy exploring complex datasets, discovering hidden patterns, extracting actionable insights, and transforming raw data into meaningful solutions. I believe in combining analytical thinking, statistical knowledge, and programming to solve real-world problems.
 
-🤝 **Looking to Connect With:** Developers, Data Scientists, and AI enthusiasts to exchange ideas, collaborate, and build impactful solutions.
+I'm continuously learning, experimenting with new technologies, and building practical projects to grow as a Data Scientist.
 
-🌱 **Currently Learning:** Advancing my skills in Python, SQL, Statistics, Exploratory Data Analysis (EDA), Data Visualization, Power BI, Machine Learning, and Generative AI.
-
-💬 **Ask Me About:** Python, Data Analytics, SQL, Power BI, Data Cleaning, EDA, and Data Visualization.
-
-⚡ **What Excites Me:** Discovering hidden patterns in data, turning raw information into meaningful insights, and exploring how AI can transform ideas into practical solutions.
-
-🎯 **My Mission:** To continuously evolve as a Data Scientist by strengthening my analytical thinking, expanding my technical expertise, and building innovative, data-driven solutions that create real-world impact.
-
-🚀 **Believe in:** Learn continuously. Build consistently. Innovate fearlessly.
+🚀 About Me
+🔭 Currently Working On: Data Science, Machine Learning, and Generative AI projects.
+📊 My Foundation: Data Analytics, Data Cleaning, Exploratory Data Analysis, and Data Visualization.
+👯 Looking to Collaborate On: Data Science, Machine Learning, Predictive Analytics, and Open-Source projects.
+🌱 Currently Learning: Python, SQL, Statistics, Machine Learning, and Generative AI.
+💬 Ask Me About: Python, SQL, Data Analytics, Power BI, EDA, and Data Visualization.
+🎯 Career Goal: To become a skilled Data Scientist capable of transforming data into intelligent, impactful solutions.
+⚡ My Philosophy: Learn continuously. Analyze critically. Build consistently. Innovate fearlessly.
 
 
 ## 🌐 Socials:
