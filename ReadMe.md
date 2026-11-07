@@ -1,22 +1,22 @@
-👋 Hi, I'm Abdul Subhan!
+Hi, I'm Abdul Subhan!
 
-🎯 Aspiring Data Scientist | Data Analytics | Machine Learning | Generative AI
+Aspiring Data Scientist | Data Analytics | Machine Learning | Generative AI
 
-🚀 About Me
+About Me
 
-🔭 Currently Working On: Data Science, Machine Learning, and Generative AI projects.
+Currently Working On: Data Science, Machine Learning, and Generative AI projects.
 
-📊 My Foundation: Data Analytics, Data Cleaning, Exploratory Data Analysis, and Data Visualization.
+My Foundation: Data Analytics, Data Cleaning, Exploratory Data Analysis, and Data Visualization.
 
-👯 Looking to Collaborate On: Data Science, Machine Learning, Predictive Analytics, and Open-Source projects.
+Looking to Collaborate On: Data Science, Machine Learning, Predictive Analytics, and Open-Source projects.
 
-🌱 Currently Learning: Python, SQL, Statistics, Machine Learning, and Generative AI.
+Currently Learning: Python, SQL, Statistics, Machine Learning, and Generative AI.
 
-💬 Ask Me About: Python, SQL, Data Analytics, Power BI, EDA, and Data Visualization.
+Ask Me About: Python, SQL, Data Analytics, Power BI, EDA, and Data Visualization.
 
-🎯 Career Goal: To become a skilled Data Scientist capable of transforming data into intelligent, impactful solutions.
+Career Goal: To become a skilled Data Scientist capable of transforming data into intelligent, impactful solutions.
 
-⚡ My Philosophy: Learn continuously. Analyze critically. Build consistently. Innovate fearlessly.
+My Philosophy: Learn continuously. Analyze critically. Build consistently. Innovate fearlessly.
 
 
 ## 🌐 Socials:
