@@ -1,8 +1,8 @@
-Hi, I'm Abdul Subhan!
+**Hi, I'm Abdul Subhan!**
 
 Aspiring Data Scientist | Data Analytics | Machine Learning | Generative AI
 
-About Me
+**About Me**
 
 Currently Working On: Data Science, Machine Learning, and Generative AI projects.
 
