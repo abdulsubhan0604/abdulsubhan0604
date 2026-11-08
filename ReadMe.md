@@ -12,7 +12,7 @@ Looking to Collaborate On: Data Science, Machine Learning, Predictive Analytics,
 
 Currently Learning: Python, SQL, Statistics, Machine Learning, and Generative AI.
 
-Ask Me About: Python, SQL, Data Analytics, Power BI, EDA, and Data Visualization.
+Ask Me About: Python, SQL, Data Analytics, Microsoft Excel, Power BI, EDA, and Data Visualization.
 
 Career Goal: To become a skilled Data Scientist capable of transforming data into intelligent, impactful solutions.
 
