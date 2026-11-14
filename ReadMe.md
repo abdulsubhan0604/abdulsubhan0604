@@ -10,7 +10,7 @@ My Foundation: Data Analytics, Data Cleaning, Exploratory Data Analysis, and Dat
 
 Looking to Collaborate On: Data Science, Machine Learning, Predictive Analytics, and Open-Source projects.
 
-Current Learning: Python, SQL, Statistics, Machine Learning, and Generative AI.
+Currently Learning: Python, SQL, Statistics, Machine Learning, and Generative AI.
 
 Ask Me About: Python, SQL, Data Analytics, Power BI, EDA, and Data Visualization.
 
